@@ -12,4 +12,4 @@ Once the target is identified, intensive follow-on research must be conducted to
 Target identification and validation are followed by discovering ways to influence the malfunctioning protein — typically by switching it off or changing its activity. This stage is done by medicinal chemistry departments or specialized contract research companies and involves large-scale screening programs where thousands or millions of chemical compounds are tested to see if they can influence the target in a beneficial way. The molecules with acceptable activity are called "hits." Of these "hits" many turn out to be false positives, and only a small number are eventually confirmed and selected to become "leads."
 
 ## What is BioInformatics?
-<img src = "bioinformatics_infographic.PNG">
+<img src = "bioinformatics_infograph.PNG">
