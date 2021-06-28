@@ -13,3 +13,5 @@ Target identification and validation are followed by discovering ways to influen
 
 ## What is BioInformatics?
 <img src = "bioinformatics_infograph.PNG">
+
+## How are we going to solve the problem?
