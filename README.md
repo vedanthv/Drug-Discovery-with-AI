@@ -1,5 +1,5 @@
 # Drug-Discovery-with-AI
-Project to discover drugs using data science and application of bio informatics for the Icebreaker Program of 2021 of Newolf Society
+Project to discover drugs using data science and application of bio informatics. Inspired by the Bio Informatics Project series by Data Professor!
 
 # Some Pre requisites
 
